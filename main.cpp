@@ -1,3 +1,7 @@
+//Сделано RedFoxMain 
+//Git hub: https://github.com/RedFoxMain
+
+
 #include <iostream>
 #include <string>
 #include <random>
