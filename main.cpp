@@ -6,8 +6,7 @@
 
 
 std::string botStep(){
-                std::string array[3] = {"Камень","Ножницы","Бумага
-"};
+                std::string array[3] = {"Камень","Ножницы","Бумага"};
         int index = rand() % 3;
         return array[index];
 }
